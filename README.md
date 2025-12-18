@@ -1,6 +1,6 @@
 # Analisis Estadistico: Relacion Funcional Lisosomas-RE
 
-Proyecto de analisis estadistico para el curso INFO337 - Herramientas Estadisticas para la Investigacion, Universidad Austral de Chile.
+Proyecto de analisis estadistico para el curso INFO337 - Herramientas Estadisticas para la Investigacion.
 
 ## Requisitos
 
@@ -22,3 +22,5 @@ Los scripts deben ejecutarse en orden secuencial:
 **3. 02_bootstrap_comparison.py**  
 
 **4. 03_bootstrap_correlation.py**  
+
+Cada script genera archivos `.txt` con resultados numericos y figuras `.png` con visualizaciones. Los resultados se integran en el informe final del proyecto.
